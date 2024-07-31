@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 博客部分 -->
+  <url>
+    <loc>https://www.mitufun.top/</loc>
+    <lastmod>2024-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 服务器官网部分 -->
+  <url>
+    <loc>https://yuxincraft.mitufun.top/</loc>
+    <lastmod>2024-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
